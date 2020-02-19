@@ -9,7 +9,6 @@ using namespace std;
 class EnginePart : Autopart{
 
 
-
 private:
 	int _EngineSpecNo = 0;
 
